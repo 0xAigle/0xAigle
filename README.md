@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🦅 Hi, I am AIGLE
+Engineering student specializing in cybersecurity and application development.
 
-<!--
-**0xAigle/0xAigle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## `~/skills`
 
-Here are some ideas to get you started:
+### 💻 Programming Languages
+```text
+Python | C | x86-64 Assembly | Bash ;
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Web Development & Cloud Computing
+```text
+JavaScript | PHP | SQL | Streamlit | AWS ;
+```
+
+### 📊 Data Science & Data Analysis
+```text
+Matlab | R | Python Data Stack ;
+```
+
+### 👾 Hacking Platform
+```text
+Root-Me | TryHackMe | HackTheBox ;
+```
+
+## `~/currently`
+
+### ⚙️ Learning Cybersecurity
+```text
+[+] Reverse Engineering ;
+[+] Malware Analysis ;
+[+] Binary Exploitation ;
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6d28d9&center=true&vCenter=true&lines=>+El+Psy+Kongroo+<" />
+</p>
