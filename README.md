@@ -8,14 +8,24 @@ Engineering student specializing in cybersecurity and application development.
 Python | C | x86-64 Assembly | Bash ;
 ```
 
-### 🌐 Web Development & Cloud Computing
+### 🌐 Web Development
 ```text
-JavaScript | PHP | SQL | Streamlit | AWS ;
+HTML | CSS | JavaScript | PHP | SQL | Streamlit ;
+```
+
+### ☁️ Amazon Web Services
+```text
+IAM | Security Groups | EC2 | S3 | VPC | Gateways | Route 53 | CloudWatch ;
 ```
 
 ### 📊 Data Science & Data Analysis
 ```text
 Matlab | R | Python Data Stack ;
+```
+
+### 🛠️ Development Tools
+```text
+Git | GitHub | GitLab | Docker ;
 ```
 
 ### 👾 Hacking Platform
